@@ -5,8 +5,9 @@ Project Hozend
 
 ======
 
-Trying to recreate rubberhose for the 21st century. Original README.md is below (to Be updated)
+# Trying to recreate rubberhose for the 21st century. Original README.md is below (to Be updated)\
 
+# Removed e-mails (iq.org + rubberhose.org) due to them being dead.
 
 Original (circa 2000)
 
@@ -16,7 +17,7 @@ Original (circa 2000)
 This is an alpha snap shot. Intended only for testing and
 development. DO NOT TRUST THIS CODE. It wants to run away with your
 prom date's underpants when you least expect it. 
-Please send any questions to <rubberhose@rubberhose.org>
+
 
 Compile under linux. The NetBSD and FreeBSD kernel modules are out of
 sync with the rest of the code. This will be rectified as soon
@@ -126,5 +127,5 @@ in doc.
 
 Happy Rubberhos'in!
 
--Julian Assange <proff@iq.org>,
- Ralf-P. Weinmann <ralph@iq.org>
+-Julian Assange 
+ Ralf-P. Weinmann 
