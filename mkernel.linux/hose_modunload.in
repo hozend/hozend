@@ -1,0 +1,8 @@
+#!/bin/bash
+
+# $Id: hose_modload.in,v 0.1 2014/02/13 23:30:46 proff Exp $
+
+rmmod maru
+rmmod kue
+
+

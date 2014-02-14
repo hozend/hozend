@@ -1,4 +1,4 @@
-# $Id: Makefile.am,v 1.3 2000/04/19 17:02:57 proff Exp $
+# $Id: Makefile.am,v 1.3 2014/02/14 13:45:57 proff Exp $
 # $Smallcopyright: $
 
 bin_PROGRAMS = confused

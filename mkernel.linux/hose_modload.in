@@ -1,0 +1,11 @@
+#!/bin/bash
+# $Id: modprobe.in,v 0.1 2014/02/14 14:30:46 proff Exp $
+
+rmmod maru 2>/dev/null
+rmmod kue 2>/dev/null
+
+prefix=@prefix@
+exec_prefix=$prefix
+
+modprobe @sbindir@/kue.o
+modprobe @sbindir@/maru.o
